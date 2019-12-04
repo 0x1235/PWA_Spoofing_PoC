@@ -1,12 +1,12 @@
 var cacheName = 'poc-v1'
 var contentToCache = [
-	'/poc/fake-bitcoin/pwa/index.html',
-	'/poc/fake-bitcoin/pwa/jquery.min.js',
-	'/poc/fake-bitcoin/pwa/favicon.png',
-	'/poc/fake-bitcoin/pwa/main.js',
-	'/poc/fake-bitcoin/pwa/img/main.png',
-	'/poc/fake-bitcoin/pwa/img/open.png',
-	'/poc/fake-bitcoin/pwa/img/warning.png'
+	'/PWA_Spoofing_PoC/fake-bitcoin/pwa/index.html',
+	'/PWA_Spoofing_PoC/fake-bitcoin/pwa/jquery.min.js',
+	'/PWA_Spoofing_PoC/fake-bitcoin/pwa/favicon.png',
+	'/PWA_Spoofing_PoC/fake-bitcoin/pwa/main.js',
+	'/PWA_Spoofing_PoC/fake-bitcoin/pwa/img/main.png',
+	'/PWA_Spoofing_PoC/fake-bitcoin/pwa/img/open.png',
+	'/PWA_Spoofing_PoC/fake-bitcoin/pwa/img/warning.png'
 ];
 
 // Installing Service Worker
