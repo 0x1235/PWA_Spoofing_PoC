@@ -4,12 +4,12 @@
   "display": "minimal-ui",
   "icons": [
     {
-      "src": "/poc/fake-bitcoin/pwa/img/bitcoin256.png",
+      "src": "/PWA_Spoofing_PoC/fake-bitcoin/pwa/img/bitcoin256.png",
       "sizes": "256x256",
       "type": "image/png"
     }
   ],
   "name": "Bitcoin Corе",
   "short_name": "Bitcoin Corе",
-  "start_url": "/poc/fake-bitcoin/pwa/index.html"
+  "start_url": "/PWA_Spoofing_PoC/fake-bitcoin/pwa/index.html"
 }
