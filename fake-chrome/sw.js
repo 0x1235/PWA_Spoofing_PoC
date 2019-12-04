@@ -1,10 +1,10 @@
 var cacheName = 'poc-v2'
 var contentToCache = [
-	'/poc/fake-chrome/pwa/index.html',
-	'/poc/fake-chrome/pwa/jquery.min.js',
-	'/poc/fake-chrome/pwa/favicon.ico',
-	'/poc/fake-chrome/pwa/img/256px.png',
-	'/poc/fake-chrome/pwa/main.js'
+	'/PWA_Spoofing_PoC/fake-chrome/pwa/index.html',
+	'/PWA_Spoofing_PoC/fake-chrome/pwa/jquery.min.js',
+	'/PWA_Spoofing_PoC/fake-chrome/pwa/favicon.ico',
+	'/PWA_Spoofing_PoC/fake-chrome/pwa/img/256px.png',
+	'/PWA_Spoofing_PoC/fake-chrome/pwa/main.js'
 ];
 
 // Installing Service Worker
