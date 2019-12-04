@@ -1,7 +1,7 @@
 // Register service worker to control making site work offline
 
 if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/poc/fake-bitcoin/sw.js', {scope: '/poc/fake-bitcoin/'}).then(function(registration) {
+    navigator.serviceWorker.register('/PWA_Spoofing_PoC/fake-bitcoin/sw.js', {scope: '/PWA_Spoofing_PoC/fake-bitcoin/'}).then(function(registration) {
         // Registration was successful
         console.log('ServiceWorker registration successful with scope: ', registration.scope);
     }, function(err) {
