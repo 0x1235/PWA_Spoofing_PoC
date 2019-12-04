@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  background: white;
+}
+
+body {
+  height: inherit;
+  margin: 0;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+.ent {
+	text-align: left;
+	font-size: 170%;
+	width: 100vw;
+}
+
+.add-button {
+	display: inline-block;
+}
+
+@media (orientation: landscape) {
+  img {
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.br-up {
+	display: none;
+	top: 0px;
+	left: 0px;
+	background-color: #3367d6;
+	cursor: pointer;
+	color: white;
+	text-align: left;
+	font-family: sans-serif;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	padding: 3vw 0vw 3vw 4vw;
+	font-size: 160%;
+	width: 100vw;
+}

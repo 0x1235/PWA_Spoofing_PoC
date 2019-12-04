@@ -1,0 +1,167 @@
+html {
+	overflow: hidden;
+}
+
+body {
+    // background-image: url(img/main.png);
+	// background-position: center;
+	// background-attachment: fixed;
+	// background-repeat: no-repeat;
+	// background-size: 100%;
+	background-color:#f8f8f8;
+	// width:480px; height:320px;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+.btc-logo {
+	display: block;
+	position: fixed;
+	left: -27.6vw;
+	top: -23vw;
+	width: 80vw;
+}
+
+.btc-logo-ver {
+	display: block;
+	position: fixed;
+	left: 50vw;
+	top: 8vh;
+}
+
+.btc-text-logo {
+	text-align: left;
+	color: #646464;
+	font: 250% sans-serif;
+	font-weight: 500;
+}
+
+.btc-version {
+	position: relative;
+	top: -1vw;
+	padding-left: 0.5vw;
+	text-align: left;
+	color: #646464;
+	font: 120% sans-serif;
+	font-weight: 500;
+}
+
+.btc-yrs {
+	display: block;
+	position: fixed;
+	left: 50vw;
+	top: 35vh;
+}
+
+.btc-yrs-e {
+	position: relative;
+	text-align: left;
+	color: #343434;
+	font: 60% sans-serif;
+	font-weight: 500;
+}
+
+.btc-load {
+	display: block;
+	position: fixed;
+	color: #141414;
+	text-align: center;
+	font: 70% sans-serif;
+	letter-spacing: 0.04em;
+	bottom: 1vh;
+	width: 100vw;
+}
+
+.message
+{
+	display: block;
+	position: fixed;
+	top: 16.4vh;
+	left: 25vw;
+	border-collapse: collapse;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.message-cell1 {
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+	padding-top: 0.8vh;
+	background-color: white;
+	text-align: center;
+	width: 2.5vw;
+}
+
+.message-cell2 {
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+	background-color: white;
+	text-align: left;
+	padding-left: 1vw;
+	color: black;
+	font: 100% serif;
+	font-weight: 500;
+	width: 47.5vw;
+}
+
+.message-cell3 {
+	// border: 1px solid gray;
+	background-color: white;
+	text-align: center;
+	padding-top: 3vh;
+	padding-bottom: 3vh;
+	width: 6vw;
+}
+
+.message-cell4 {
+	// border: 1px solid gray;
+	background-color: white;
+	padding: 1vw 0vw 1vw 0vw;
+	text-align: left;
+	color: #040404;
+	font: 100% sans-serif;
+	line-height: 140%;
+	width: 44vw;
+}
+
+.message-cell5 {
+	// border: 1px solid gray;
+	background-color: white;
+	padding-top: 1vw;
+	padding-bottom: 1vw;
+	text-align: center;
+	background-color: #f8f8f8;
+}
+
+.message-icon1 {
+	display: inline-block;
+	width: 2vw;
+}
+
+.message-icon2 {
+	display: inline-block;
+	width: 4vw;
+}
+
+.message-butt {
+	display: inline-block;
+	border: 1px solid lightgray;
+	background: url("img/open.png") no-repeat;
+	background-size: 8vw;
+	outline: none;
+	height: 8.4vw;
+	width: 8.4vw;
+}
+
+.message-butt:hover {
+	border: 1px solid gray;
+}
+
+.message-butt:active {
+	outline:none;
+}

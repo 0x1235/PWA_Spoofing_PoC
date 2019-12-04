@@ -1,0 +1,15 @@
+﻿{
+  "background_color": "#dee1e6",
+  "description": "Shows random fox pictures. Hey, at least it isn't cats.",
+  "display": "minimal-ui",
+  "icons": [
+    {
+      "src": "/poc/fake-chrome/pwa/img/256px.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "name": "Googlе Chrome", // U+0435 (e)
+  "short_name": "Googlе Chrome", // U+0435 (e)
+  "start_url": "/poc/fake-chrome/pwa/index.html"
+}

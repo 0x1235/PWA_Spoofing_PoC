@@ -1,0 +1,15 @@
+{
+  "background_color": "#f8f8f8",
+  "description": "Shows random fox pictures. Hey, at least it isn't cats.",
+  "display": "minimal-ui",
+  "icons": [
+    {
+      "src": "/poc/fake-bitcoin/pwa/img/bitcoin256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "name": "Bitcoin Corе",
+  "short_name": "Bitcoin Corе",
+  "start_url": "/poc/fake-bitcoin/pwa/index.html"
+}

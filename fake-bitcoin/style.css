@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  background: white;
+}
+
+body {
+  height: inherit;
+  margin: 0;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+.ent {
+	text-align: center;
+	width: 100vw;
+}
+
+.add-button {
+	display: inline-block;
+}
+
+@media (orientation: landscape) {
+  img {
+    height: 100%;
+    object-fit: cover;
+  }
+}

