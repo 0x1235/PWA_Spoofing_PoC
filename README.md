@@ -10,11 +10,14 @@
 2. Make a fake interface. For example a browser. ( See discussion on https://github.com/w3c/manifest/issues/747 )
 3. Avoid the attention of antivirus programs. Just HTML page, login field and several style sheets.
 
-<b>But:</b>
+<b>But:</b><br>
 We need a little of social engineering and luck.
+
 
 <b>Video</b>
 > https://www.youtube.com/watch?v=7T-Yd-cMrd4
 
+
 First reported Tue, Sep 3, 2019, 11:05 PM GMT+3
 https://bugs.chromium.org/p/chromium/issues/detail?id=1000425
+
