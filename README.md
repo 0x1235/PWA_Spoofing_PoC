@@ -1,5 +1,8 @@
 # PWA_Spoofing_PoC
 
+<b>What is PWA</b>
+* https://en.wikipedia.org/wiki/Progressive_web_application
+
 Interesting feature of PWA is their ability to create desktop icons.
 In discussion on https://github.com/w3c/manifest/issues/747 was warned about faking the user interface and possible dangerous.
 But issue of replacing legitimate desktop icons their malicious copies is not discussed.
