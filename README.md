@@ -8,7 +8,7 @@
 <b>So that we can:</b>
 1. Create an icon for HTML page directly on the desktop with <a href="https://en.wikipedia.org/wiki/IDN_homograph_attack">unicode trick</a>.
 2. Make a fake interface. For example a browser. ( See discussion on https://github.com/w3c/manifest/issues/747 )
-3. Avoid the attention of antivirus programs. Just HTML page, login field and several style sheets.
+3. Avoiding attention of antivirus programs. Just HTML page, login field and several style sheets.
 
 <b>But:</b><br>
 We need a little of social engineering and luck.<br><br>
