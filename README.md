@@ -18,6 +18,12 @@ We need a little of social engineering and luck.<br><br>
 > https://www.youtube.com/watch?v=7T-Yd-cMrd4
 <br><br>
 
+
+<b>Live demo:</b>
+<a href="https://github.com/0x1235/PWA_Spoofing_PoC/fake-chrome/">Fake Chrome</a><br>
+<a href="https://github.com/0x1235/PWA_Spoofing_PoC/fake-bitcoin/">Bitcoin</a><br>
+<br><br>
+
+
 First reported Tue, Sep 3, 2019, 11:05 PM GMT+3
 https://bugs.chromium.org/p/chromium/issues/detail?id=1000425
-
