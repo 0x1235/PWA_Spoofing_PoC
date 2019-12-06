@@ -15,7 +15,7 @@ But:<br>
 
 Live demo:
 * <a href="https://0x1235.github.io/PWA_Spoofing_PoC/fake-chrome/">Fake Chrome</a><br>
-* <a href="https://0x1235.github.io/PWA_Spoofing_PoC/fake-bitcoin/">Bitcoin</a><br>
+* <a href="https://0x1235.github.io/PWA_Spoofing_PoC/fake-bitcoin/">"PWA" Bitcoin</a><br>
 <br><br>
 
 
