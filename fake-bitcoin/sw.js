@@ -1,4 +1,4 @@
-var cacheName = 'poc-v1'
+var cacheName = 'poc-v1';
 var contentToCache = [
 	'/PWA_Spoofing_PoC/fake-bitcoin/pwa/index.html',
 	'/PWA_Spoofing_PoC/fake-bitcoin/pwa/jquery.min.js',
